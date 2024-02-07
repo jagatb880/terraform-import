@@ -30,7 +30,7 @@ resource "aws_ecs_task_definition" "my_task_definition" {
   family                = "nodejs-app-td"
   revision              = "1"
   container_definitions = file("${path.module}/task_definition.json")
-  execution_role_arn    = "arn:aws:iam::123456789012:role/ecs-task-execution-role"
+  execution_role_arn    = "<execution_role_arn>"
   network_mode          = "bridge"
 }
 //terraform import aws_ecs_task_definition.my_task_definition <my_task_definition>
