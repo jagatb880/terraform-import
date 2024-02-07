@@ -15,11 +15,11 @@
   <p>In simple terms, User Pool manages user accounts and authentication for your application, while Identity Pool provides a secure way for authenticated users to access AWS resources without directly exposing their AWS credentials.</p>
   <p>Together, User Pool and Identity Pool form the backbone of user authentication and access control in AWS, helping you build secure and scalable applications with ease.</p>
 
-  <h3>Creation of User Pool</h3>
-<h4>https://www.youtube.com/watch?v=KMk73SDYLys</h4>
+  <h4>Creation of User Pool</h4>
+<h5>https://www.youtube.com/watch?v=KMk73SDYLys</h5>
 
-<h3>Creation of Identity Pool</h3>
-<h4>https://www.youtube.com/watch?v=su-LPbD66Kc&t=345s</h4>
+<h4>Creation of Identity Pool</h4>
+<h5>https://www.youtube.com/watch?v=su-LPbD66Kc&t=345s</h5>
 
 </body>
 </html>
